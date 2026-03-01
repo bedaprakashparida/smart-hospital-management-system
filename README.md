@@ -48,7 +48,7 @@ A modern, fast, and responsive React SPA (Single Page Application) designed to s
    ```
 
 4. **Access the Application**:
-   Open `http://localhost:5173` in your web browser.
+   Open `https://smart-hospital-management-system-plum.vercel.app/` in your web browser.
 
 ### 🔑 Default Test Accounts
 For testing the Role-Based Access Control (RBAC), you can use the following mock accounts or register new ones:
