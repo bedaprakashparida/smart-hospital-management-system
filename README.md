@@ -143,7 +143,7 @@ Hackathon Project 2026
 
 Frontend:
 ```
-git clone <>
+git clone <https://github.com/bedaprakashparida/smart-hospital-management-system>
 cd project-folder
 npm install
 npm run dev
